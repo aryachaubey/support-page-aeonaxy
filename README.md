@@ -8,5 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-  Project Name  - Support Page Design
-  Live url - https://support-page-arya.netlify.app/
+  Live url of the project - https://support-page-arya.netlify.app/
